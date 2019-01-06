@@ -1,0 +1,12 @@
+.btn-primary {
+	margin-right: 8px;
+	background-color: pink;
+	border-color: pink;
+	border-width: 2px;
+}
+
+
+.btn-primary:hover {
+	background-color: pink;
+	border-color: black;
+}
